@@ -1,3 +1,0 @@
-# testGradle
-
-fetch 1
